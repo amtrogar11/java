@@ -9,10 +9,16 @@ public static void main(String[] args)
   int r=a+b+c;
   End int project
   System.out.println("The result of two number is=" + r);
+
   double x=12.8;
   double y=18.90;
   double z=17.79;
   double z1=x+y+z;
    System.out.println("The result of two double number is=" + z1);
+
+  the file master open
+  don't permote it
+  it origenal file
+
 }
 }
