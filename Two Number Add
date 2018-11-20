@@ -7,6 +7,7 @@ public static void main(String[] args)
   
   int c=19;
   int r=a+b+c;
+  End int project
   System.out.println("The result of two number is=" + r);
   double x=12.8;
   double y=18.90;
